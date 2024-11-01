@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4bbbbe67;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #4c98af;
+    color: rgb(41, 69, 129);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para o título */
+.titulo-estilizado {
+    font-size: 2em;
+    color: #0f2896;
+    background-color: #396ed19f;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-family: 'Arial', sans-serif;
+    display: inline-block;
+}
+
+
+.titulo-estilizado2 {
+    font-size: 2em;
+    color: #2d2bb9;
+    background-color: #455dac63;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(8, 14, 97, 0.151);
+    font-family: 'Arial', sans-serif;
+    display: inline-block;
+}
